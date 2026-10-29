@@ -5,5 +5,6 @@
 <img width="1110" height="523" alt="image" src="https://github.com/user-attachments/assets/21fb699c-6cf5-40ac-afbf-07e4ccc3c6c2" />
 <img width="955" height="1079" alt="image" src="https://github.com/user-attachments/assets/f81de42f-74f4-475c-b8ae-381f9ffd13b5" />
 --"pantalla de mi compañero miguel"-- <img width="657" height="84" alt="Captura de pantalla 2026-10-29 105332" src="https://github.com/user-attachments/assets/19aa15f8-c30a-4134-9375-a14ecdeea193" />
- 
+ <img width="1079" height="216" alt="image" src="https://github.com/user-attachments/assets/951e931f-c197-421b-96b6-8fbefbbf5c22" />
+
 
